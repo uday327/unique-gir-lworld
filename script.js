@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     
                     servicesContainer.appendChild(serviceElement);
                 });
-            })
+            })cvfbgfdbfd
             .catch(error => console.error('Error fetching makeup services:', error));
     }
     
